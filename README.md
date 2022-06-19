@@ -1,7 +1,3 @@
-# Getting Started with Frontend SQL Editor
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Overview
 
 It is a dummy frontend web-based application which is runnning predefined SQL queries 'Select * from Students;' and 'Select * from Accounts;' and displaying the pre defined Tables accordingly.
@@ -16,7 +12,9 @@ I have also included some features which will display the datatype of attributes
 
 #### Library used: React.js
 
-#### [Largest content element load time](https://gtmetrix.com/reports/62aea635aa8c747a60b7c8e8--extraordinary-puppy-b41a48.netlify.app/EI5Lcp4t/): 990ms
+[Largest content element load time](https://gtmetrix.com/reports/62aea635aa8c747a60b7c8e8--extraordinary-puppy-b41a48.netlify.app/EI5Lcp4t/): 990ms
+
+You can see the deployed application [here](https://62aea635aa8c747a60b7c8e8--extraordinary-puppy-b41a48.netlify.app/).
 
 
 
